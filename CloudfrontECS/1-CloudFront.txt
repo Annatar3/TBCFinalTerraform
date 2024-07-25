@@ -1,0 +1,7 @@
+1-CloudFront
+2-S3
+3-vpc
+4-ECS
+5-Aurora
+6-ElasticCache
+7-Redshift
